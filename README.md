@@ -466,7 +466,7 @@
          =========================== -->
     <header>
         <div class="container">
-            <a href="#home" class="logo">🎓 Summer Academy School Punjab</a>
+            <a href="#home" class="logo">🎓 Blooming Buds Public School Punjab</a>
             <nav>
                 <ul id="nav-menu">
                     <li><a href="#home">Home</a></li>
@@ -485,7 +485,7 @@
          =========================== -->
     <section id="home" class="hero">
         <div class="hero-content">
-            <h1>Welcome to Summer Academy School</h1>
+            <h1>Welcome to Blooming Buds Public School</h1>
             <p>Your Gateway to Success and Excellence in Education</p>
             <!-- Interactive Welcome Button -->
             <button class="welcome-btn" id="welcome-btn">Click for a Special Message!</button>
@@ -503,7 +503,7 @@
             <h2>About Our School</h2>
             <div class="about-content">
                 <p>
-                    Summer Academy School is a leading educational institution dedicated to providing quality education 
+                    Blooming Buds Public School is a leading educational institution dedicated to providing quality education 
                     and fostering the development of well-rounded students. Since its establishment, we have been 
                     committed to academic excellence and character development.
                 </p>
@@ -616,7 +616,7 @@
          FOOTER
          =========================== -->
     <footer>
-        <p>&copy; 2026 Summer Academy School. All rights reserved.</p>
+        <p>&copy; 2026 Blooming Buds Public School. All rights reserved.</p>
         <p>📍 123 Education Street | 📞 (555) 123-4567 | 📧 info@greenfielacademy.edu</p>
     </footer>
 
@@ -772,7 +772,7 @@
         /* ===========================
            CONSOLE MESSAGE
            =========================== */
-        console.log('Welcome to Summer Academy School Website!');
+        console.log('Welcome to Blooming Buds Public School Website!');
         console.log('This is a simple, beginner-friendly school website.');
         console.log('Feel free to explore and interact with the features!');
     </script>
